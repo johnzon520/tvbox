@@ -10,8 +10,8 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    class_url:'2&3&4&25',
-    class_name:'儿歌&故事&国学&启蒙',
+    class_url:'5&3&2&28&6&8&7&9&11&25&29&24&27',
+    class_name:'古诗&故事&儿歌&安全教育&三字经&千字文&弟子规&十万个为什么&数学&英语&动物奇缘&折纸&公益',
     //class_name:'#page-viewport&&ul&&li;.text&&Text;a&&href;/(.*)',
     cate_exclude:'应用',
     推荐:'.pic-list.list-box;.items;.text&&Text;mip-img&&src;.all&&Text;a&&href',
