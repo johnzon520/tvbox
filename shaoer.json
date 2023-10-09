@@ -4,7 +4,8 @@
     "sites": [
         
         {"key": "csp_XYQHiker_兔小贝","name":"兔小贝","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/兔小贝.json"},
-        {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/兔小贝2.json"}
+        {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/兔小贝2.json"},
+        {"key":"drpy_js_兔小贝","name":"兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/兔小贝.js"}
         
     ],
     "parses": [
