@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/jy075797801b587ba4393921c5b83af3d16d6;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/jy07528e999f954b944758543325179cbf58e;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
     "sites": [
         
         {"key": "csp_XYQHiker_兔小贝","name":"兔小贝","type":3,"api":"csp_XYQHiker","ext":"./json/兔小贝.json"},
