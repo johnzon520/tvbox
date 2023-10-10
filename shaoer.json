@@ -4,11 +4,13 @@
     "sites": [
         
         {"key": "csp_XYQHiker_兔小贝","name":"兔小贝","type":3,"api":"csp_XYQHiker","ext":"./json/兔小贝.json"},
-       // {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2","type":3,"api":"csp_XYQHiker","ext":"./json/兔小贝2.json"},
+        // {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2","type":3,"api":"csp_XYQHiker","ext":"./json/兔小贝2.json"},
         {"key":"csp_Bili幼儿","name":"幼儿","type": 3,"api": "csp_Bili","ext":"./json/幼儿乐园.json"},
         {"key":"csp_Bili少儿","name":"少儿","type": 3,"api": "csp_Bili","ext":"./json/少儿教育.json"},
         {"key":"csp_Bili小学","name":"小学","type": 3,"api": "csp_Bili","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"},
-        {"key": "csp_XYQHiker_播视童趣","name":"童趣","type":3,"api":"csp_XYQHiker","ext":"./json/播视童趣.json"}
+        {"key":"csp_Bili幼儿","name":"幼儿2","type": 3,"api": "csp_Bili","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/少儿教育.json"},
+        {"key":"csp_Bili少儿","name":"少儿2","type": 3,"api": "csp_Bili","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/名师课堂.json"}
+        //{"key": "csp_XYQHiker_播视童趣","name":"童趣","type":3,"api":"csp_XYQHiker","ext":"./json/播视童趣.json"}
     ],
     "parses": [
         {"name":"Web聚合","type":3,"url":"Web"},
