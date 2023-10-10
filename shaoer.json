@@ -1,13 +1,13 @@
 {
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-    "spider": "./jar/XYQ.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69",
     "sites": [
         
         {"key": "csp_XYQHiker_兔小贝","name":"兔小贝","type":3,"api":"csp_XYQHiker","ext":"./json/兔小贝.json"},
        // {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2","type":3,"api":"csp_XYQHiker","ext":"./json/兔小贝2.json"},
         {"key":"csp_Bili幼儿","name":"幼儿","type": 3,"api": "csp_Bili","ext":"./json/幼儿乐园.json"},
         {"key":"csp_Bili少儿","name":"少儿","type": 3,"api": "csp_Bili","ext":"./json/少儿教育.json"},
-        {"key":"csp_Bili小学","name":"小学","type": 3,"api": "csp_Bili","ext":"./json/小学课堂.json"},
+        {"key":"csp_Bili小学","name":"小学","type": 3,"api": "csp_Bili","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/小学课堂.json"},
         {"key": "csp_XYQHiker_播视童趣","name":"童趣","type":3,"api":"csp_XYQHiker","ext":"./json/播视童趣.json"}
     ],
     "parses": [
